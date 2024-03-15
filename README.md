@@ -4,47 +4,6 @@
 - 🌱 I’m currently learning Java.
 
 
-#### GeoJSON Test
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              25.09599019447262,
-              59.87766723250459
-            ],
-            [
-              -11.564790722366325,
-              59.87766723250459
-            ],
-            [
-              -11.564790722366325,
-              34.74693791336594
-            ],
-            [
-              25.09599019447262,
-              34.74693791336594
-            ],
-            [
-              25.09599019447262,
-              59.87766723250459
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
-```
-
 <!--
 **mbient/mbient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
