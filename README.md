@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python :snake:
 
 
 <!--
