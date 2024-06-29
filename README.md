@@ -1,20 +1,19 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python :snake:
+I'm a automation enthusiast with a passion for scripting and programming. I
+enjoy writing code in languages like C, Rust, and Go, and I'm always looking
+for ways to simplify tasks and make them more efficient.
 
+Currently, I'm also exploring the world of NixOS, a fascinating operating
+system that offers a unique approach to package management and system
+configuration.
 
-<!--
-**mbient/mbient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not coding, you can find me tinkering with new projects or learning
+about the latest developments in the tech world. I'm excited to share my
+experiences and knowledge with the GitHub community, and I look forward to
+collaborating with others who share my interests.
 
-Here are some ideas to get you started:
+Feel free to take a look at my repositories and projects, and let's connect
+if you're working on something interesting!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
